@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    background-color: #d2d2c1;
     background-image: url(../img/fundo.png);
     background-repeat: repeat;
     background-attachment: fixed;
