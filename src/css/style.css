@@ -40,10 +40,11 @@ h2 {
 
 .conteudo {
     background-color: beige;
-    padding: 10px 10px;
+    padding: 15px;
 }
 
 .fotter {
+    padding: 10px;
     font-size: 1.1em;
     font-weight: bold;
     text-align: center;
